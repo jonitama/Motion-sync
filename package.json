@@ -1,0 +1,19 @@
+{
+  "name": "motionsync",
+  "version": "1.0.0",
+  "description": "server side of gym webapp",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run start:dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonitama/Motion-sync.git"
+  },
+  "author": "Jonitama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonitama/Motion-sync/issues"
+  },
+  "homepage": "https://github.com/jonitama/Motion-sync#readme"
+}
